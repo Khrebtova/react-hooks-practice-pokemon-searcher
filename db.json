@@ -1340,6 +1340,15 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "bulbasaur",
+      "hp": "45",
+      "sprites": {
+        "front": "http://www.pokego.org/assets/img/pokemon/bulbasaur-pokemon-go.png",
+        "back": "https://i.pinimg.com/236x/8a/c2/bb/8ac2bb630cb3dcaac182a2c6d80ce2ea--pokemon-tv-draw-pokemon.jpg"
+      },
+      "id": 151
     }
   ]
 }
